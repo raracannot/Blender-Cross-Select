@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "Cross_Select"
+name = "Cross Select"
+version = "1.0.1"
+tagline = "Select scene objects similar like RHINO or CAD"
+maintainer = "RARA, CYX, Witty.Ming, Shuimeng"
+type = "add-on"
+tags = ["Object","3D View","Scene"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 RARA"]
